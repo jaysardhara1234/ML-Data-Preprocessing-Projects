@@ -127,8 +127,3 @@ This project successfully demonstrates the implementation of Data Cleaning, Data
 The final dataset became cleaner, more structured, and more suitable for future machine learning and predictive analytics tasks. The project also helped strengthen practical understanding of preprocessing pipelines and analytical workflows commonly used in Data Science projects.
 
 ---
-
-## 👨‍💻 Author
-
-**jaee**  
-Aspiring Data Analyst & Machine Learning Enthusiast
